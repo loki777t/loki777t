@@ -1,11 +1,11 @@
 ![Header](https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif)
 
 About me:  
-- :делаю сайты про пиво 
+- ☑️:делаю сайты про пиво 
 
-- :люблю пиво
+- ☑️:люблю пиво
 
-- :катаюсь на горных лыжах
+- ☑️:катаюсь на горных лыжах
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
