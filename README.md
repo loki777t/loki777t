@@ -1,3 +1,3 @@
 ![Header](https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif)
 
-About me
+About me: делаю сайты про пиво 
