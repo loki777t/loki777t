@@ -14,6 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loki777t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![1](https://github.com/user-attachments/assets/e25eee7f-e233-4ed9-8247-e9eb8dc6303b)
+<img src="https://github.com/user-attachments/assets/e25eee7f-e233-4ed9-8247-e9eb8dc6303b" alt="1" width="100" height="100" />
 
 
