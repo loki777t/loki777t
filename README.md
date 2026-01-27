@@ -1,51 +1,64 @@
+<div align="center">
+
 <!-- Анимированный заголовок -->
-![Header](https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Welcome+to+my+GitHub!;Frontend+Developer;Open+Source+Enthusiast;Continuous+Learner" alt="Typing Animation" />
 
-<!-- Анимированное приветствие -->
-<h1 align="center"> 🚀 Привет, я Loki! </h1>
-<h3 align="center">Frontend разработчик | Учусь и расту каждый день</h3>
+<!-- Профильное фото -->
+<img src="https://github.com/user-attachments/assets/e25eee7f-e233-4ed9-8247-e9eb8dc6303b" alt="Profile" width="220" height="220" style="border-radius: 50%; border: 4px solid #8B5CF6; margin: 20px 0; box-shadow: 0 0 20px rgba(139, 92, 246, 0.3);" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Люблю+чистый+код;Исследую+новые+технологии;Создаю+интерактивные+интерфейсы" alt="Typing animation" />
-</p>
+### 💫 *"Код — это поэзия, написанная логикой"*
 
----
-
-## 🛠️ Мой стек технологий
-
-<div align="center">
-  
-### 💻 Основные языки
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Дизайн и инструменты
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 📚 Изучаю
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![GitHub](https://img.shields.io/badge/GitHub-loki777t-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loki777t)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 
 </div>
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Динамическая статистика -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=loki777t&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki777t&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
-|:---:|:---:|
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=loki777t&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki777t&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff&langs_count=8" alt="Top Languages" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=loki777t&theme=radical&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Streak" height="180"/>
+    </td>
+  </tr>
+</table>
 
-<!-- Полоса активности -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=loki777t&theme=react-dark&hide_border=true&area=true)
-
-<!-- Счетчик посещений -->
-![Visitors](https://komarev.com/ghpvc/?username=loki777t&color=blueviolet&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=loki777t&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 **Programming Languages**
+<div align="center" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts" alt="Languages" />
+</div>
+
+### 🎨 **Frontend Development**
+<div align="center" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,sass" alt="Frontend" />
+</div>
+
+### 🛠️ **Tools & Platforms**
+<div align="center" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack" alt="Tools" />
+</div>
+
+### 📚 **Learning**
+<div align="center" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redux,graphql" alt="Learning" />
+</div>
