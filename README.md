@@ -79,17 +79,7 @@
 
 ---
 
-## 📝 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Project Alpha** | Modern web application | React, Tailwind, Node |
-| **UI Components** | Reusable component library | TypeScript, Storybook |
-| **Portfolio** | Personal portfolio site | Next.js, Framer Motion |
-
-</div>
 
 ---
 
@@ -110,16 +100,7 @@
 
 ---
 
-## 📫 Connect With Me
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-
-</div>
 
 ---
 
