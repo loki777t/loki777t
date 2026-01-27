@@ -13,8 +13,7 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loki777t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="[file:///C:/Users/%D0%98%D0%BB%D1%8C%D1%8F/Downloads/a3e195481b951656ce48f849ea5e71e2-Photoroom.jpeg](https://i.pinimg.com/1200x/78/2c/49/782c4979c9d5d1bb00d4a926aa8f9c25.jpg)"/>
-
+![Описание](https://i.pinimg.com/1200x/78/2c/49/782c4979c9d5d1bb00d4a926aa8f9c25.jpg)
 
 
 
