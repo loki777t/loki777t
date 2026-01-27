@@ -9,7 +9,7 @@
 ### 💫 *"Код — это поэзия, написанная логикой"*
 
 [![GitHub](https://img.shields.io/badge/GitHub-loki777t-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loki777t)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+
 
 </div>
 
