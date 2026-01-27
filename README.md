@@ -49,28 +49,3 @@
 
 </div>
 
----
-
-## 🎯 Текущие цели
-
-```javascript
-const goals = [
-  "⚡ Изучить React на продвинутом уровне",
-  "🎨 Освоить анимации CSS",
-  "📱 Начать изучение React Native",
-  "🚀 Создать собственный пет-проект"
-];
-
-goals.forEach(goal => console.log(`✅ ${goal}`));
-✨ Интересные факты
-<!-- Анимированные иконки --><p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"> </p><div align="center">
-День	Ночь
-<img src="https://github.com/user-attachments/assets/e25eee7f-e233-4ed9-8247-e9eb8dc6303b" alt="Day" width="150" height="150" />	<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Night" width="150" height="150" />
-</div>
-📫 Связь со мной
-<div align="center">
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-
-</div>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" /> </p> ```
