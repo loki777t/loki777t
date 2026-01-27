@@ -13,7 +13,7 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loki777t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Footer](file:///C:/Users/%D0%98%D0%BB%D1%8C%D1%8F/Downloads/iPhone%2016%20Pro%20-%201.jpg)
+![Footer](file:///C:/Users/%D0%98%D0%BB%D1%8C%D1%8F/Downloads/iPhone%2016%20Pro%20-%201.jpg](https://raw.githubusercontent.com/ВАШ_ЮЗЕРНЕЙМ/assets/main/iPhone%2016%20Pro%20-%201.jpg)
 
 
 
